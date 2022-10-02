@@ -5,7 +5,7 @@ int main()
 {
     int a, b;
     cin >> a >> b;
-    cout << "sum is " << a + b;
+    cout << "The final sum is " << a + b;
 
     return 0;
 }
